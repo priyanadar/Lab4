@@ -1,1 +1,11 @@
-echo "Welcome to Lab4"
+<!DOCTYPE html>
+<html>
+<head>
+  <title> 
+    FIRST HTML WEB PAGE 
+  </title>
+</head>
+<body>
+  Hello Devops team !!! Happy Learning
+</body>
+</html>
